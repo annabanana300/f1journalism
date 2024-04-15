@@ -1,0 +1,165 @@
+@charset "UTF-8";
+#container {
+    height: 82vw;
+    background-color: #FAF7F1;
+    border: 0.6vw double #623D13;
+    color: #5A3002;
+}
+#header {
+    text-align: center;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    font-size: 3vw;
+    margin-top: 7vw;
+    color: #5E3600;
+    letter-spacing: 0.1vw;
+}
+#underline {
+    margin-top: -1.5vw;
+}
+
+/*navbar*/
+#navbar {
+    text-align: center;
+    padding: 1vw;
+    margin-left: -2vw;
+}
+
+#navbar ul li {
+    padding: 3vw;
+    display: inline;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    font-size: 1vw;
+}
+
+/*navbar link decoration*/
+a:link {
+    color: #371E08;
+    text-decoration: underline;
+}
+a:visited {
+    text-decoration: underline;
+}
+a:hover {
+    text-decoration: none;
+    color: #9A0D0F;
+}
+a:active {
+    text-decoration: underline;
+}
+
+/*-----------------------c1--------------------------*/
+#c1 {
+	border-style: solid;
+	border-color: #855020;
+	width: 30vw;
+	height: 29vw;
+	margin-left: 22vw;
+	margin-top: 6vw;
+}
+#c1text {
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    font-size: 1.2vw;
+    line-height: 2.5vw;
+	padding-left: 3vw;
+	padding-top: 2vw;
+	width: 24vw;
+}
+#chiefsvschargers {
+    width: 24vw;
+	padding-left: 3vw;
+	padding-top: 2vw;
+}
+
+/*-------------------c2--------------------*/
+#c2 {
+    width: 20vw;
+    height: 29vw;
+	border-style: solid;
+	border-color: #855020;
+	margin-left: 56vw;
+	margin-top: -29.4vw;
+}
+
+#texasdisquali {
+	width: 16vw;
+	padding: 2vw;
+}
+
+#c2text {
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    font-size: 1vw;
+    line-height: 2vw;
+	width: 16vw;
+	padding-left: 2vw;
+}
+
+/*-----------------------c3--------------------------*/
+
+#c3 {
+	border-style: solid;
+	border-color: #855020;
+    width: 28vw;
+	height: 13vw;
+	margin-top: 3vw;
+	margin-left: 22vw;
+}
+
+#ricciardo {
+    width: 12vw;
+	padding: 2vw;
+}
+#c3text {
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    font-size: 1vw;
+    line-height: 2vw;
+	width: 10vw;
+	margin-left: 16vw;
+	margin-top: -12vw;
+}
+
+/*-----------------------c4--------------------------*/
+#c4 {
+	border-style: solid;
+	border-color: #855020;
+    width: 22vw;
+	height: 13vw;
+	margin-top: -13.3vw;
+	margin-left: 54vw;
+}
+#wwc {
+    padding: 1vw;
+    width: 11vw;
+}
+#c4text {
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    font-size: 1vw;
+    line-height: 2vw;
+	width: 7vw;
+	margin-left: 14vw;
+	margin-top: -12vw;
+}
+
+#footerunderline {
+	margin-top: 4vw;
+	text-align: center;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    font-size: 2vw;
+    color: #5E3600;
+    letter-spacing: 0.1vw;
+}
+#footernavbar {
+    text-align: center;
+    padding: 1vw;
+    margin-left: -2vw;
+}
+
+#footernavbar ul li {
+    padding: 2vw;
+    display: inline;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    font-size: 1vw;
+}
+ul a {
+	color: #371E08;
+    text-decoration: underline;
+}

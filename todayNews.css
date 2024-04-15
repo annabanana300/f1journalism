@@ -1,0 +1,214 @@
+@charset "UTF-8";
+#container {
+    height: 88vw;
+    background-color: #FAF7F1;
+    border: 0.6vw double #623D13;
+    color: #5A3002;
+}
+
+
+#header {
+    text-align: center;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    font-size: 3vw;
+    margin-top: 7vw;
+    color: #5E3600;
+    letter-spacing: 0.1vw;
+}
+
+#underline {
+    margin-top: -1.5vw;
+}
+
+/*navbar*/
+#navbar {
+    text-align: center;
+    padding: 1vw;
+    margin-left: -2vw;
+}
+
+#navbar ul li {
+    padding: 3vw;
+    display: inline;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    font-size: 1vw;
+}
+
+/*navbar link decoration*/
+a:link {
+    color: #371E08;
+    text-decoration: underline;
+}
+a:visited {
+    text-decoration: underline;
+	color: saddlebrown;
+}
+a:hover {
+    text-decoration: none;
+    color: #9A0D0F;
+}
+a:active {
+    text-decoration: underline;
+}
+
+#c1 {
+    width: 22vw;
+    height: 36vw;
+    margin-left: 22vw;
+    margin-top: 6vw;
+    border-style: solid;
+	border-color: #855020;
+}
+#JoshPaul {
+    padding: 2vw;
+    width: 18vw;
+}
+#c1text {
+	width: 17vw;
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    font-size: 1vw;
+    line-height: 2vw;
+    text-decoration: underline;
+	padding-left: 2vw;
+}
+
+#c6 {
+	border-style: solid;
+	border-color: #855020;
+	width: 22vw;
+	height: 12vw;
+	margin-left: 22vw;
+	margin-top: -12vw;
+
+}
+
+#c2 {
+	border-style: solid;
+	border-color: #855020;
+    width: 27.5vw;
+    height: 16vw;
+	margin-left: 48vw;
+	margin-top: -36.4vw;
+}
+#c2title {
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    font-size: 2.5vw;
+    text-decoration: underline;
+    margin-left: 2vw;
+    margin-top: 2vw;
+    color: #950C0E;
+    width: 5vw;
+    line-height: 1.5;
+}
+#c2text {
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    line-height: 2vw;
+    font-size: 1vw;
+    text-align: left;
+    width: 13vw;
+    margin-left: 12vw;
+    margin-top: -11vw;
+}
+
+
+#c3 {
+	border-style: solid;
+	border-color: #855020;
+	width: 26vw;
+	height: 8vw;
+	margin-left: 48vw;
+	margin-top: 3vw;
+}
+#wifemurderer {
+    padding: 1vw;
+    width: 8vw;
+}
+#c3text {
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    font-size: 0.9vw;
+    line-height: 2;
+    width: 14vw;
+    margin-left: 11vw;
+    margin-top: -7vw;
+}
+
+#c4 {
+	border-style: solid;
+	border-color: #855020;
+	width: 26vw;
+	height: 8vw;
+	margin-left: 48vw;
+	margin-top: 2vw;
+}
+#pagebreak {
+    margin-left: 48vw;
+    margin-top: 2.5vw;
+    font-size: 1vw;
+}
+#trunkortreat {
+    width: 8.5vw;
+	padding: 1vw;
+}
+#c4text {
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    font-size: 0.9vw;
+    line-height: 2;
+    width: 14vw;
+    margin-left: 11vw;
+    margin-top: -7vw;
+}
+
+#c5 {
+	border-style: solid;
+	border-color: #855020;
+	width: 26vw;
+	height: 8vw;
+	margin-left: 48vw;
+	margin-top: 2vw;
+}
+#snowfall {
+    width: 8vw;
+	padding: 1vw;
+}
+#c5text {
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    font-size: 0.9vw;
+    line-height: 2;
+    width: 14vw;
+    margin-left: 11vw;
+    margin-top: -6.7vw;
+}
+
+#bcspca {
+    width: 10vw;
+	padding: 1.7vw;
+}
+#c6text {
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    line-height: 1.8vw;
+    font-size: 0.9vw;
+	margin-left: 12.5vw;
+	margin-top: -11vw;
+	margin-right: 1vw;
+}
+
+#footerunderline {
+	margin-top: 4vw;
+	text-align: center;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    font-size: 2vw;
+    color: #5E3600;
+    letter-spacing: 0.1vw;
+}
+#footernavbar {
+    text-align: center;
+    padding: 1vw;
+    margin-left: -2vw;
+}
+
+#footernavbar ul li {
+    padding: 2vw;
+    display: inline;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    font-size: 1vw;
+}
